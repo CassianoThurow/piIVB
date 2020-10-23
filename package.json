@@ -1,0 +1,17 @@
+{
+  "name": "piIVB",
+  "version": "1.0.0",
+  "repository": "https://github.com/CassianoThurow/piIVB.git",
+  "author": "Cassiano Thurow <cassiano.thurow@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "scripts":{
+    "dev": "nodemon server.js"
+  }
+
+}
