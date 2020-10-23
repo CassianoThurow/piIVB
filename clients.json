@@ -1,0 +1,44 @@
+{
+  "clients": [
+    {
+      "id": "1",
+      "name": "Joao",
+      "adress": "Pelotas",
+      "cep": "00000000",
+      "birth": "09/09/95",
+      "phone": "111111111"
+    },
+    {
+      "id": "2",
+      "name": "Fulano",
+      "adress": "Pelotas",
+      "cep": "444444444",
+      "birth": "10/10/95",
+      "phone": "999999999"
+    },
+    {
+      "id": "3",
+      "name": "Sicrano",
+      "adress": "Pelotas",
+      "cep": "2222222222",
+      "birth": "01/02/03",
+      "phone": ""
+    },
+    {
+      "id": "4",
+      "name": "Cassiano",
+      "adress": "Sao lourenco do sul",
+      "cep": "96170-000",
+      "birth": "06/06/95",
+      "phone": "0000548484"
+    },
+    {
+      "id": "5",
+      "name": "Willian",
+      "adress": "Curitiba",
+      "cep": "66666666",
+      "birth": "02/04/15",
+      "phone": "519681984"
+    }
+  ]
+}
